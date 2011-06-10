@@ -1,0 +1,3 @@
+This provides support for using variable caching functionality inside XCache ( http://xcache.lighttpd.net/ ) as an external cache for SugarCRM.
+
+To build, zip up contents of this directory. Install via Module Loader.
